@@ -1,4 +1,5 @@
-# Linkedin-Job-Listings
+# Job Screener
+
 This two part Flow illustrates the process by how you can automate and screen recurrent jobs listings from Linkedin using UiPath, Power Automate, Gmail and Linkedin Job Alerts, and ChatGpt
 
 Please refer to Job Screener.pdf for complete documentation on triggers, flow schematics, etc.
