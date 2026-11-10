@@ -16,7 +16,9 @@ How to Create the UIPath Workflow
    
 4. Lastly, use the Upload File Google Drive action.  For connection, select your own gmail account.  Under files, just put **{output}** , and then select the Google Drive folder you want the file to be uploaded to. Under Show Properties, Select **Replace** in the files already exist field.
 
-5. Deploy the solution 
+5. Deploy the solution
+
+   
 
 **Creating the GPT Project**
 
