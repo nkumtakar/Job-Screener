@@ -34,6 +34,8 @@ How to Create the UIPath Workflow
 
 **Chatgpt scheduled task**: 
 
+Go to the *Scheduled* Tab in the GPT interface.
+
 Use a message similar to this in the GPT Prompt. 
 
 <img width="665" height="207" alt="image" src="https://github.com/user-attachments/assets/c69c23bf-22b6-44a0-9a5f-37667e7b5a8c" />
