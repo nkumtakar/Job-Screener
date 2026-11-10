@@ -23,7 +23,7 @@ How to Create the UIPath Workflow
 1. Go to the Projects Tab
 2. Click the (+) to add a project 
 3. Put in a description of specifics of your job, such as specific job responsibilities, salary, location and things that you do not want. The more details
-   you give GPT the better the screener will be at giving you recommendations of whether to apply or rject the jobs that were selected.   Put this description here in the instructions field of the project settings.  (Click the three elipssis in a project to pull up the project settings pane).
+   you give GPT the better the screener will be at giving you recommendations of whether to apply or rject the jobs that were selected.   Put this description here in the instructions field of the project settings.  (Click the three ellipsis in a project to pull up the project settings pane).
 4. Call this project, *Job Opportunity Screener*
 
 
